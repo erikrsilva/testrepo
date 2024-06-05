@@ -1,3 +1,3 @@
 # Teste Github Upload
 
-print ("teste github upload")
+print("teste github upload")
